@@ -2,7 +2,7 @@
     "name": "userdetails",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https:/userdetails.github.io",
+    "homepage": "https://github.com/Gokulblokert/userdetails_react",
     "dependencies": {
         "@material-ui/core": "^4.12.4",
         "@testing-library/jest-dom": "^5.16.5",
